@@ -20,6 +20,5 @@ I'm a backend software developer based in Lagos, Nigeria. With a background in P
 - **CBT Platform Backend** — Backend services for a computer-based testing platform, built with a seven-person Agile team
 
 ### Let's Connect
-ainaseyim@gmail.com
-[Linkedin](https://www.linkedin.com/in/oluwaseyiaina/)
+[Linkedin](https://www.linkedin.com/in/oluwaseyiaina/)  
 [Email](mailto:ainaseyim@gmail.com)
